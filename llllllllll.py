@@ -21,7 +21,7 @@ class MyApp(App):
 					size_hint = [None, None],
 					size = [50, 50]))
 		al.add_widget(gl)
-
+# idi nahuy
 		return al
 
 if __name__ == '__main__':
