@@ -9,6 +9,7 @@ from kivy.uix.widget import Widget
 
 # Импорт модуля Config;
 # Настройка дефолтных настроек программы.
+
 from kivy.config import Config
 Config.set('graphics', 'height', '520')
 Config.set('graphics', 'width', '340')
