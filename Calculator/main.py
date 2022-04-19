@@ -12,7 +12,7 @@ from kivy.uix.widget import Widget
 from kivy.config import Config
 Config.set('graphics', 'height', '520')
 Config.set('graphics', 'width', '340')
-Config.set('graphics', 'resizable', '0')
+Config.set('graphics', 'resizable', '1')
 
 class CalculatorApp(App):
 	def on_start(self):
